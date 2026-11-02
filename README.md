@@ -82,23 +82,7 @@ While testing I found that a game ran noticeably slower on Ren'Py 7.8.7 on my ph
 4. Open a Ren'Py game from **Any Play** – it will start the plugin for you.
 5. The first time, the plugin asks for **"All files access"**. It needs this to read the game you chose and to save your progress next to it. Allow it and come back.
 
-> ⚠️ **Play Protect / "unknown app" warning:** Android shows this for any app installed outside the Play Store. It does not mean something is wrong. You can verify the download with the SHA-256 checksums in the release notes.
-
-### 🔎 Verify your download (optional)
-
-Windows (PowerShell):
-
-```powershell
-Get-FileHash AnyPlay-Renpy8-Plugin.apk -Algorithm SHA256
-```
-
-Linux / macOS:
-
-```bash
-sha256sum AnyPlay-Renpy8-Plugin.apk
-```
-
-Compare the result with the value written in the release notes.
+> ⚠️ **Play Protect / "unknown app" warning:** Android shows this for any app installed outside the Play Store. It does not mean something is wrong.
 
 ## 🔒 Privacy
 
@@ -108,7 +92,8 @@ The plugins don't collect, store or send personal information, don't show ads, a
 
 These plugins are built on **[Ren'Py](https://www.renpy.org/)** and contain free software licensed under a number of licenses, including the GNU Lesser General Public License. A complete list of the software is available at [renpy.org/doc/html/license.html](http://www.renpy.org/doc/html/license.html).
 
-- A copy of Ren'Py's license is included in this repository: [`RENPY-LICENSE.txt`](RENPY-LICENSE.txt)
+- License of the Ren'Py 7 plugin: [`RENPY-7-LICENSE.txt`](RENPY-7-LICENSE.txt)
+- License of the Ren'Py 8 plugin: [`RENPY-8-LICENSE.txt`](RENPY-8-LICENSE.txt)
 - Source code of Ren'Py: [github.com/renpy/renpy](https://github.com/renpy/renpy)
 - Build tooling for the Android engine: [github.com/renpy/renpy-build](https://github.com/renpy/renpy-build)
 
@@ -123,4 +108,4 @@ Any Play and these plugins are independent projects. They are **not affiliated w
 
 ## 📬 Contact
 
-Questions or bugs? Open an [issue](https://github.com/001-lovely-singh/AnyPlay-Plugin-Renpy/issues) or write to **lovekumar90274@gmail.com**.
+[Join the Discord](https://discord.gg/Y9Yjsn5yDP)
