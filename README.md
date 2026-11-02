@@ -99,7 +99,7 @@ These plugins are built on **[Ren'Py](https://www.renpy.org/)** and contain free
 
 The games you play with these plugins belong to their own creators and have their own licenses.
 
-Any Play and these plugins are independent projects. They are **not affiliated with or endorsed by** the Ren'Py project or JoiPlay.
+Any Play and these plugins are independent projects. They are **not affiliated with or endorsed by** the Ren'Py project.
 
 ## 💭 How It Can Be Improved
 
