@@ -8,8 +8,8 @@ Two small companion apps for **[Any Play](https://001-lovely-singh.github.io/)**
 
 | Plugin | For games made with | Min. Android | Download |
 |---|---|---|---|
-| **Ren'Py 7 Plugin** | Ren'Py 7 | 4.4 | [AnyPlay-Renpy7-Plugin.apk](https://github.com/001-lovely-singh/AnyPlay-Plugin-Renpy/releases/download/v1.0/AnyPlay-Renpy7-Plugin.apk) |
-| **Ren'Py 8 Plugin** | Ren'Py 8 | 5.0 | [AnyPlay-Renpy8-Plugin.apk](https://github.com/001-lovely-singh/AnyPlay-Plugin-Renpy/releases/download/v1.0/AnyPlay-Renpy8-Plugin.apk) |
+| **Ren'Py 7 Plugin** | Ren'Py 7+ | 4.4 | [AnyPlay-Renpy7-Plugin.apk](https://github.com/001-lovely-singh/AnyPlay-Plugin-Renpy/releases/download/v1.0/AnyPlay-Renpy7-Plugin.apk) |
+| **Ren'Py 8 Plugin** | Ren'Py 8+ | 5.0 | [AnyPlay-Renpy8-Plugin.apk](https://github.com/001-lovely-singh/AnyPlay-Plugin-Renpy/releases/download/v1.0/AnyPlay-Renpy8-Plugin.apk) |
 
 Ren'Py 7 and Ren'Py 8 are different engine versions, so install the plugin that matches your game (or both, they can be installed side by side).
 
@@ -18,7 +18,7 @@ All releases: [Releases page](https://github.com/001-lovely-singh/AnyPlay-Plugin
 ## 📦 Technologies
 
 - `Ren'Py 7.7.1` (Ren'Py 7 plugin)
-- `Ren'Py 8` (Ren'Py 8 plugin)
+- `Ren'Py 8.5.3` (Ren'Py 8 plugin)
 - `Java`
 - `Kotlin`
 - `Python 2.7 / 3` (the engine's own scripting)
